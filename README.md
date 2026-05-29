@@ -41,6 +41,6 @@ make -j4
 ```
 
 ### Installation
-1. Install the generated `VitaCam.vpk` using VitaShell.
+1. [Install or download](https://github.com/Gustavo3211/VitaCam/releases/tag/0.1) the generated `VitaCam.vpk` using VitaShell.
 2. Connect the PS Vita to your Wi-Fi network.
 3. Launch the application and open `http://vitacam.local:8080` in your web browser.
