@@ -44,3 +44,7 @@ make -j4
 1. [Install or download](https://github.com/Gustavo3211/VitaCam/releases/tag/0.1) the generated `VitaCam.vpk` using VitaShell.
 2. Connect the PS Vita to your Wi-Fi network.
 3. Launch the application and open `http://vitacam.local:8080` in your web browser.
+
+### Thanks!!!
+https://github.com/ibrahim-dogan/vita-drop/ - this repo helped me understand how to make the server
+
