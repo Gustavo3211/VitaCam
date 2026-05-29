@@ -37,7 +37,7 @@ VitaCam turns your PlayStation Vita into a wireless webcam for your PC (OBS Stud
 mkdir build
 cd build
 cmake ..
-make -j4
+make
 ```
 
 ### Installation
