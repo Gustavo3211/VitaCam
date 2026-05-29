@@ -1,0 +1,24 @@
+# Build files
+/build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Vita SDK temporary/compilation outputs
+*.velf
+*.elf
+*.self
+*.vpk
+*.sfo
+*.a
+
+# Python virtual environment
+/venv/
+__pycache__/
+*.pyc
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
